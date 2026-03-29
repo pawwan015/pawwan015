@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pawwan015
+- 👋 Hi, I’m @pawan015
 - 👀 I’m interested in everything
-- 🌱 I’m currently pursuing deploma in electrical and electronics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I have completed diploma in electrical & electronics
+- 💞️ I’m looking to learn
 
 <!---
 pawwan015/pawwan015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
